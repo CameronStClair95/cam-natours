@@ -1,6 +1,6 @@
+@import "abstracts/mixins";
 @import "abstracts/functions";
 @import "abstracts/variables";
-@import "abstracts/mixins";
 
 @import "base/base";
 @import "base/animations";
@@ -9,6 +9,8 @@
 
 @import "pages/home";
 
+@import "components/composition";
 @import "components/button";
 
 @import "layout/header";
+@import "layout/grid";
