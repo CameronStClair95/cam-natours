@@ -44,8 +44,3 @@ Special thanks to Jonas Schmedtmann for his guidance and invaluable insights dur
 
 Jonas Schmedtmann
 
-
-
-
-You might want to replace the placeholder link `[#]` next to Jonas Schmedtmann's name with a relevant link, such as a personal webpage or a course page if he's an instructor.
-
