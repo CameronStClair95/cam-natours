@@ -1,4 +1,4 @@
-````markdown
+
 # Natours
 
 Natours is a modern and responsive tourism website dedicated to nature enthusiasts. Crafted with the latest web technologies, the site offers an immersive experience for users seeking the serenity of nature and the thrill of adventures.
@@ -13,18 +13,17 @@ Natours is a modern and responsive tourism website dedicated to nature enthusias
 
 To set up Natours on your local machine:
 
-```bash
+bash
 npm install
-```
-````
+
 
 ## Usage
 
 To run the project:
 
-```bash
+bash
 npm start
-```
+
 
 ## Technologies Used
 
@@ -45,8 +44,8 @@ Special thanks to Jonas Schmedtmann for his guidance and invaluable insights dur
 
 Jonas Schmedtmann
 
-```
+
 
 
 You might want to replace the placeholder link `[#]` next to Jonas Schmedtmann's name with a relevant link, such as a personal webpage or a course page if he's an instructor.
-```
+
